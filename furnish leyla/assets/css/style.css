@@ -1,0 +1,237 @@
+header {
+  position: relative !important;
+  width: 100%;
+  height: 700px;
+  background-color: rgb(208, 243, 252);
+}
+header img {
+  width: 50%;
+  height: 700px;
+  display: flex;
+  float: right;
+}
+header nav {
+  width: 100%;
+  position: absolute !important;
+}
+header nav .collapse1 {
+  display: flex;
+  justify-content: flex-end !important;
+}
+header .design .p1 {
+  padding-top: 200px;
+  font-size: 60px;
+}
+header .design b {
+  font-size: 40px;
+}
+header .design .span {
+  color: gray;
+}
+
+.button-73 {
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  background-color: #FFFFFF;
+  border-radius: 40em;
+  border-style: none;
+  box-shadow: #ADCFFF 0 -12px 6px inset;
+  box-sizing: border-box;
+  color: #000000;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system, sans-serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  letter-spacing: -0.24px;
+  margin: 0;
+  outline: none;
+  padding: 1rem 2rem;
+  quotes: auto;
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.15s;
+  -moz-user-select: none;
+       user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-top: 50px;
+}
+
+.button-73:hover {
+  background-color: #FFC229;
+  box-shadow: #FF6314 0 -6px 8px inset;
+  transform: scale(1.125);
+}
+
+.button-73:active {
+  transform: scale(1.025);
+}
+
+@media (min-width: 768px) {
+  .button-73 {
+    font-size: 1.5rem;
+    padding: 0.75rem 2rem;
+  }
+}
+#feature .card1 {
+  background-color: rgb(251, 218, 223);
+  border: none !important;
+  margin-top: 15px;
+  border-radius: 0 !important;
+  height: 250px;
+}
+#feature .meet {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: indianred;
+}
+#feature .meet i {
+  font-size: 40px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+#feature .card2 {
+  background-color: rgb(204, 255, 188);
+  border: none !important;
+  margin-top: 15px;
+  border-radius: 0 !important;
+  height: 250px;
+}
+#feature .meet2 {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: rgb(129, 172, 88);
+}
+#feature .meet2 i {
+  font-size: 40px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+#feature .card3 {
+  background-color: rgb(235, 242, 218);
+  border: none !important;
+  margin-top: 15px;
+  border-radius: 0 !important;
+  height: 250px;
+}
+#feature .meet3 {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: rgba(230, 217, 32, 0.974);
+}
+#feature .meet3 i {
+  font-size: 40px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+#feature .card4 {
+  background-color: rgb(251, 197, 178);
+  border: none !important;
+  margin-top: 15px;
+  border-radius: 0 !important;
+  height: 250px;
+}
+#feature .meet4 {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: rgb(181, 124, 105);
+}
+#feature .meet4 i {
+  font-size: 40px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+#quality {
+  background-image: url("https://preview.colorlib.com/theme/furnish/images/bg_4.jpg.webp");
+  background-position: center center;
+  height: 800px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#quality div {
+  float: right;
+  margin-top: 100px;
+}
+#quality div h3 {
+  font-size: 50px;
+}
+#quality div p {
+  color: gray;
+}
+#quality div span {
+  color: #fe5d00;
+  font-size: 20px;
+  margin-top: 100px;
+}
+
+.button-42 {
+  margin-top: 50px;
+  background-color: initial;
+  background-image: linear-gradient(-180deg, #FF7E31, #E62C03);
+  border-radius: 6px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0 2px 4px;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Inter, -apple-system, system-ui, Roboto, "Helvetica Neue", Arial, sans-serif;
+  width: 80px !important;
+  height: 80px;
+  border-radius: 50%;
+  line-height: 40px;
+  outline: 0;
+  overflow: hidden;
+  padding: 0 20px;
+  pointer-events: auto;
+  position: relative;
+  text-align: center;
+  touch-action: manipulation;
+  -moz-user-select: none;
+       user-select: none;
+  -webkit-user-select: none;
+  vertical-align: top;
+  white-space: nowrap;
+  width: 100%;
+  z-index: 9;
+  border: 0;
+  transition: box-shadow 0.2s;
+}
+.button-42 i {
+  font-size: 30px;
+  margin-left: 8px;
+  margin-top: 5px;
+}
+
+.button-42:hover {
+  box-shadow: rgb(253, 76, 0) 0 3px 8px;
+}
+
+#customers .row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 100px;
+}
+
+#blog .row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 100px;
+}

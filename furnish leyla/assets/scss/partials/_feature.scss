@@ -1,0 +1,86 @@
+#feature{
+    .card1{
+        background-color: rgb(251, 218, 223);
+        border: none !important;
+        margin-top: 15px;
+        border-radius: 0 !important;
+        height: 250px;
+    }
+    .meet{
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+        background-color: indianred;
+        
+        i{
+            font-size: 40px;
+            color: white;
+            display: flex;
+            justify-content: center; 
+            margin-top: 10px;
+        }
+    }
+    .card2{
+        background-color: rgb(204, 255, 188);
+        border: none !important;
+        margin-top: 15px;
+        border-radius: 0 !important;
+        height: 250px;
+    }
+    .meet2{
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+        background-color: rgb(129, 172, 88);
+        
+        i{
+            font-size: 40px;
+            color: white;
+            display: flex;
+            justify-content: center; 
+            margin-top: 10px;
+        }
+    }
+    .card3{
+        background-color: rgb(235, 242, 218);
+        border: none !important;
+        margin-top: 15px;
+        border-radius: 0 !important;
+        height: 250px;
+    }
+    .meet3{
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+        background-color: rgba(230, 217, 32, 0.974);
+        
+        i{
+            font-size: 40px;
+            color: white;
+            display: flex;
+            justify-content: center; 
+            margin-top: 10px;
+        }
+    }
+    .card4{
+        background-color: rgb(251, 197, 178);
+        border: none !important;
+        margin-top: 15px;
+        border-radius: 0 !important;
+        height: 250px;
+    }
+    .meet4{
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+        background-color: rgb(181, 124, 105);
+        
+        i{
+            font-size: 40px;
+            color: white;
+            display: flex;
+            justify-content: center; 
+            margin-top: 10px;
+        }
+    }
+}
